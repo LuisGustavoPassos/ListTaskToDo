@@ -1,0 +1,32 @@
+# VSCode
+.vscode/
+*.code-workspace
+ToDo.csproj.lscache
+
+# C# / .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+.vs/
+appsettings.Development.json
+
+# MVC
+Areas/
+wwwroot/lib/
+
+# Dependencies
+packages/
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
